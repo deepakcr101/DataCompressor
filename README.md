@@ -1,4 +1,4 @@
-# Data Compressor and Decompressor (Java)
+#Data Compressor and Decompressor (Java)
 This project implements a Java application for compressing and decompressing data files using various algorithms: LZW, GZIP, Huffman, and Run-Length Encoding (RLE).
 
 Features
@@ -11,5 +11,4 @@ LZW (Lempel-Ziv-Welch): A dictionary-based algorithm that replaces repeating seq
 GZIP (built-in library): Utilizes the GNU zip compression format for efficient file compression.
 Huffman: Assigns shorter codes to more frequent characters, achieving better compression for files with skewed character frequencies.
 Run-Length Encoding (RLE): Represents a sequence of identical values with a single value and its repetition count. (Suitable for specific data types)
-
 
