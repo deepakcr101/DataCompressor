@@ -1,4 +1,4 @@
-#Data Compressor and Decompressor (Java)
+# Data Compressor and Decompressor (Java)
 This project implements a Java application for compressing and decompressing data files using various algorithms: LZW, GZIP, Huffman, and Run-Length Encoding (RLE).
 
 Features
